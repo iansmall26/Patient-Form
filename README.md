@@ -15,4 +15,5 @@ Once you fill and submit in the form, the output should be this:
 ![image](https://github.com/iansmall26/Patient-Form/assets/121866422/a169a6d7-17b4-4823-b646-136279b085bd)
 Confirm the email received to look as such:
 ![image](https://github.com/iansmall26/Patient-Form/assets/121866422/47f746d9-10bd-49ba-a269-cfb6c4e6cf62)
+
 The reference in the output should be the same as the reference in the email body.
