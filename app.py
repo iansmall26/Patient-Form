@@ -26,10 +26,10 @@ def save_to_database(data):
 
 # Send email to the patient
 def send_email(email, reference_number):
-    smtp_server = 'smtp.gmail.com'
+    smtp_server = 'smtp.example.com'
     smtp_port = 587
-    sender_email = 'mungaiiankamau@gmail.com'
-    sender_password = 'cdpoxboxmfzwjrgm'
+    sender_email = 'your_email@example.com'
+    sender_password = 'your_email_password'
 
     subject = 'Patient Registration Successful'
     body = f'Dear Patient,\n\nYour registration is successful. Your reference number is: {reference_number}\n\nThank you.'
